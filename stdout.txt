@@ -1,0 +1,6 @@
+loaded pawn: 389 vtx, 696 poly, 764 nodes in bsp tree
+loaded rook: 661 vtx, 884 poly, 895 nodes in bsp tree
+loaded knight: 1502 vtx, 2912 poly, 4215 nodes in bsp tree
+loaded bishop: 808 vtx, 1306 poly, 1493 nodes in bsp tree
+loaded queen: 913 vtx, 1464 poly, 2002 nodes in bsp tree
+loaded king: 808 vtx, 1342 poly, 1455 nodes in bsp tree
